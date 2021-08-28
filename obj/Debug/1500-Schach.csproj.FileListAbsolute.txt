@@ -1,0 +1,20 @@
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\1500-Schach.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\_1500_Schach.Form1.resources
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\_1500_Schach.Properties.Resources.resources
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\1500-Schach.csproj.GenerateResource.cache
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\1500-Schach.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\bin\Debug\1500-Schach.exe.config
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\bin\Debug\1500-Schach.exe
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\bin\Debug\1500-Schach.pdb
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\1500-Schach.exe
+C:\Users\Dave\source\repos\1500-Schach\1500-Schach\obj\Debug\1500-Schach.pdb
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\bin\Debug\1500-Schach.exe.config
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\bin\Debug\1500-Schach.exe
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\bin\Debug\1500-Schach.pdb
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\1500-Schach.csprojAssemblyReference.cache
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\_1500_Schach.Form1.resources
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\_1500_Schach.Properties.Resources.resources
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\1500-Schach.csproj.GenerateResource.cache
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\1500-Schach.exe
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\1500-Schach.pdb
+C:\Users\Dave\OneDrive - BBBaden\Lernatelier\1500-Schach\1500-Schach\1500-Schach\obj\Debug\1500-Schach.csproj.CoreCompileInputs.cache
